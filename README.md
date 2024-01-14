@@ -2,6 +2,14 @@
 
 Task Tracker App is a web application that allows users to manage and track their tasks efficiently.
 
+## Frontend Design
+
+![Screenshot 1](images/LandingHomePage.png)
+![Screenshot 2](images/signupPage.png)
+![Screenshot 3](images/loginPage.png)
+![Screenshot 4](images/afterLoginHomePage.png)
+![Screenshot 5](images/taskListPage.png)
+
 ## Features
 
 - **User Authentication:** Sign up and log in securely to manage your tasks.
@@ -45,9 +53,17 @@ npm install
    Create a .env file in the server directory and add your MongoDB connection URI, JWT secret, and other necessary variables.
 
 4. Start the backend server:
-   cd server
-   npm start
+
+```
+cd server
+npm start
+
+```
 
 5. tart the frontend application:
-   cd client
-   npm run serve
+
+```
+cd client
+npm run serve
+
+```

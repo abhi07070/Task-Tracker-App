@@ -12,7 +12,6 @@ export class TasksService {
   ) {}
 
   async create(createTaskDto) {
-    console.log('Received request in TasksService with data:', createTaskDto);
     const user = await this.userService.findOne(createTaskDto.userId);
     if (!user) {
       throw new NotFoundException('User not found');
