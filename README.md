@@ -4,11 +4,16 @@ Task Tracker App is a web application that allows users to manage and track thei
 
 ## Frontend Design
 
-![Screenshot 1](images/LandingHomePage.png)
-![Screenshot 2](images/signupPage.png)
-![Screenshot 3](images/loginPage.png)
-![Screenshot 4](images/afterLoginHomePage.png)
-![Screenshot 5](images/taskListPage.png)
+1. Home Page
+   ![Screenshot 1](images/LandingHomePage.png)
+2. Sign Up Page
+   ![Screenshot 2](images/signupPage.png)
+3. Login page
+   ![Screenshot 3](images/loginPage.png)
+4. After Login
+   ![Screenshot 4](images/afterLoginHomePage.png)
+5. Task ListPage
+   ![Screenshot 5](images/taskListPage.png)
 
 ## Features
 
