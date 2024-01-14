@@ -33,7 +33,8 @@ Task Tracker App is a web application that allows users to manage and track thei
 
 2. Install dependencies for both the frontend and backend:
 
-```client-side
+```
+client-side
 npm install
 
 server-side
@@ -44,9 +45,8 @@ npm install
    Create a .env file in the server directory and add your MongoDB connection URI, JWT secret, and other necessary variables.
 
 4. Start the backend server:
-
-cd server
-npm start
+   cd server
+   npm start
 
 5. tart the frontend application:
    cd client
